@@ -1,0 +1,16 @@
+body{
+
+   font-size:5rem;
+   color:black;
+   text-align:center;
+}
+
+
+body{
+background-image:url("img/img2.jpeg");
+background-repeat:no-repeat;
+background-size:cover;
+}
+h6{ 
+   font-size:2rem;
+}

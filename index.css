@@ -1,0 +1,16 @@
+body{
+
+   font-size:5rem;
+   color:white;
+   text-align:center;
+}
+
+
+body{
+background-image:url("img/img3.jpeg");
+background-repeat:no-repeat;
+background-size:cover;
+}
+h6{ 
+   font-size:2rem;
+}
